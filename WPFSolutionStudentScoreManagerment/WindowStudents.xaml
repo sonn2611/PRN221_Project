@@ -1,0 +1,46 @@
+﻿<Window x:Class="WPFSolutionStudentScoreManagerment.WindowStudents"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSolutionStudentScoreManagerment"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="WindowStudents" Height="600" Width="800">
+    <Grid>
+        <GroupBox Header="Student Information" Margin="14,10,246,349" Background="#FFFCFCFC">
+            <Canvas Height="179" VerticalAlignment="Top">
+                <Label Content="Student Id:" FontWeight="Bold" RenderTransformOrigin="0.471,1.085" Canvas.Left="9" Canvas.Top="8" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_Code" TextWrapping="Wrap" Text="{Binding Path=Masv, Mode=OneWay}" DataContext="{Binding ElementName=dtg_Students, Path=SelectedItem}" Canvas.Left="101" Canvas.Top="7" HorizontalAlignment="Center" VerticalAlignment="Top" Width="376" Height="24"/>
+                <Label Content="Name:" FontWeight="Bold" RenderTransformOrigin="0.471,1.085" Canvas.Left="8" Canvas.Top="34" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBox x:Name="txt_Name" Canvas.Left="101" TextWrapping="Wrap" Text="{Binding Path=Tensv, Mode=OneWay}" DataContext="{Binding ElementName=dtg_Students, Path=SelectedItem}" Canvas.Top="33" Width="376" Height="22" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Label Content="Address:" HorizontalAlignment="Left" Canvas.Left="8" Canvas.Top="60" Height="30" FontWeight="Bold" VerticalAlignment="Top" RenderTransformOrigin="0.471,1.085"/>
+                <TextBox x:Name="txt_Address" Canvas.Left="101" TextWrapping="Wrap" Text="{Binding Path=Dcsv, Mode=OneWay}" DataContext="{Binding ElementName=dtg_Students, Path=SelectedItem}" Canvas.Top="60" Width="376" HorizontalAlignment="Center" VerticalAlignment="Top" Height="22"/>
+                <Label Content="Classcode:" Canvas.Left="10" Canvas.Top="90" Height="25" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Width="86"/>
+                <ComboBox x:Name="cbx_Classcode" Canvas.Left="102" Text="{Binding Path=Malp, Mode=OneWay}" DataContext="{Binding ElementName=dtg_Students, Path=SelectedItem}" Canvas.Top="92" Width="163" Height="23" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            </Canvas>
+        </GroupBox>
+
+        <GroupBox Header="Operator" Margin="559,10,10,349">
+            <Canvas Margin="0,0,0,127">
+                <Button x:Name="btn_Add" Content="Add" HorizontalAlignment="Center" VerticalAlignment="Top" Height="33" Width="104" Canvas.Left="58"  Click="btn_Add_Click"/>
+                <Button x:Name="btn_Edit" Content="Edit" HorizontalAlignment="Center" VerticalAlignment="Top" Height="33" Width="104" Canvas.Left="58" Canvas.Top="38"  Click="btn_Edit_Click"/>
+                <Button x:Name="btn_Delete" Content="Delete" HorizontalAlignment="Center" VerticalAlignment="Top" Height="33" Width="104" Canvas.Left="58" Canvas.Top="76"  Click="btn_Delete_Click"/>
+                <Button x:Name="btn_Close" Content="Close" HorizontalAlignment="Center" VerticalAlignment="Top" Height="33" Width="104" Canvas.Left="58" Canvas.Top="114"  Click="btn_Close_Click"/>
+            </Canvas>
+        </GroupBox>
+
+        <GroupBox Header="Students" Margin="14,292,10,0" BorderBrush="#FFFCFCFC" Background="White" Foreground="#FF120A0A">
+            <DataGrid x:Name="dtg_Students" CanUserAddRows="False" AutoGenerateColumns="False" d:ItemsSource="{d:SampleData ItemCount=5}" Background="White" SelectionChanged="dtg_Students_SelectionChanged" Margin="0,0,0,6" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="StudentId" Binding="{Binding Masv}"/>
+                    <DataGridTextColumn Header="StudentName" Binding="{Binding Tensv}" />
+                    <DataGridTextColumn Header="Address" Binding="{Binding Dcsv}"/>
+                    <DataGridTextColumn Header="ClassId" Binding="{Binding Malp}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <TextBox x:Name="txt_Search" TextChanged="TxtSearch_TextChanged" HorizontalAlignment="Left" Margin="191,240,0,0"  VerticalAlignment="Top" Width="245" Height="40" FontSize="15"/>
+        <Label Content="Search name" HorizontalAlignment="Left" Margin="80,245,0,0" VerticalAlignment="Top" Height="30" Width="106" FontSize="16"/>
+    </Grid>
+</Window>

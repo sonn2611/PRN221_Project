@@ -1,0 +1,51 @@
+﻿<Window x:Class="WPFSolutionStudentScoreManagerment.LopDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSolutionStudentScoreManagerment"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="LopDetail" Height="550" Width="1000">
+    <Grid>
+        <GroupBox Header="StudentDetail" Margin="10,78,462,111">
+            <DataGrid x:Name="dtg_Class" CanUserAddRows="False" AutoGenerateColumns="False" ItemsSource="{Binding}" d:ItemsSource="{d:SampleData ItemCount=5}"  Background="White" SelectionChanged="dtg_Class_SelectionChanged" Margin="0,0,0,6" SelectionMode="Single" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="StudentId" Binding="{Binding Masv}"/>
+                    <DataGridTextColumn Header="StudentName" Binding="{Binding Tensv}"/>
+                    <DataGridTextColumn Header="Address" Binding="{Binding Dcsv}"/>
+                    <DataGridTemplateColumn Header="Action" Width="150">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button Height="30" Width="100" Click="DetailButton_Click">ViewPoint</Button>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <TextBox x:Name="txt_SearchStudent" TextChanged="TxtSearchStudent_TextChanged" HorizontalAlignment="Left" Margin="105,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="433" Height="46" FontSize="15"/>
+        <GroupBox Header="Scores" Margin="543,78,10,190">
+            <DataGrid x:Name="dtg_Scores" d:ItemsSource="{d:SampleData ItemCount=5}" AutoGenerateColumns="False" ItemsSource="{Binding}" Background="White" SelectionChanged="dtg_Scores_SelectionChanged" Margin="0,0,0,7" SelectionMode="Single">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="StudentName" Binding="{Binding Tensv}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="SubjectName" Binding="{Binding Tenmh}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Scores" Binding="{Binding Diem}"/>
+                    <DataGridTextColumn Header="Scores" Binding="{Binding Mamh}" Visibility="Hidden"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <TextBox x:Name="txt_SearchScores" TextChanged="TxtSearchScores_TextChanged" HorizontalAlignment="Left" Margin="730,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260" Height="46" FontSize="15"/>
+        <Button x:Name="btn_Add" Content="Add" HorizontalAlignment="Left" Margin="580,364,0,0" VerticalAlignment="Top" Height="56" Width="112" Click="btn_Add_Click"/>
+        <Button x:Name="btn_Update" Content="Update" HorizontalAlignment="Left" Margin="735,366,0,0" VerticalAlignment="Top" Height="56" Width="112" Click="btn_Update_Click"/>
+        <Button x:Name="btn_Delete" Content="Delete" HorizontalAlignment="Left" Margin="871,363,0,0" VerticalAlignment="Top" Height="60" Width="112" Click="btn_Delete_Click"/>
+        <ComboBox x:Name="cbx_Subject" Text="{Binding Path=Tenmh, Mode=OneWay}" DataContext="{Binding ElementName=dtg_Scores, Path=SelectedItem}" HorizontalAlignment="Left" Margin="105,428,0,0" VerticalAlignment="Top" Width="180" Height="32" SelectionChanged="cbx_Subject_SelectionChanged"/>
+        <TextBox x:Name="txt_Point" Text="{Binding Path=Diem, Mode=OneWay}" DataContext="{Binding ElementName=dtg_Scores, Path=SelectedItem}" HorizontalAlignment="Left" Margin="402,432,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="33" />
+        <Label Content="Subject" HorizontalAlignment="Left" Margin="10,432,0,0" VerticalAlignment="Top" Height="33" Width="90"/>
+        <Label Content="Point" HorizontalAlignment="Left" Margin="323,432,0,0" VerticalAlignment="Top" Height="33" Width="90"/>
+        <Label Content="Search class" HorizontalAlignment="Left" Margin="10,22,0,0" VerticalAlignment="Top" Height="30" Width="103" FontSize="16"/>
+        <Label Content="Search Scores" HorizontalAlignment="Left" Margin="592,23,0,0" VerticalAlignment="Top" FontSize="16" Height="29" Width="116"/>
+    </Grid>
+</Window>

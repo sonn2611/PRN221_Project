@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment.csproj": {}
+  },
+  "projects": {
+    "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFBO\\WPFBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFBO\\WPFBO.csproj",
+        "projectName": "WPFBO",
+        "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFBO\\WPFBO.csproj",
+        "packagesPath": "C:\\Users\\nhath\\.nuget\\packages\\",
+        "outputPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nhath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFDAO\\WPFDAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFDAO\\WPFDAO.csproj",
+        "projectName": "WPFDAO",
+        "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFDAO\\WPFDAO.csproj",
+        "packagesPath": "C:\\Users\\nhath\\.nuget\\packages\\",
+        "outputPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFDAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nhath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFBO\\WPFBO.csproj": {
+                "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFBO\\WPFBO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFRepo\\WPFRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFRepo\\WPFRepo.csproj",
+        "projectName": "WPFRepo",
+        "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFRepo\\WPFRepo.csproj",
+        "packagesPath": "C:\\Users\\nhath\\.nuget\\packages\\",
+        "outputPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFRepo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nhath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFDAO\\WPFDAO.csproj": {
+                "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFDAO\\WPFDAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFService\\WPFService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFService\\WPFService.csproj",
+        "projectName": "WPFService",
+        "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFService\\WPFService.csproj",
+        "packagesPath": "C:\\Users\\nhath\\.nuget\\packages\\",
+        "outputPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nhath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFRepo\\WPFRepo.csproj": {
+                "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFRepo\\WPFRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment.csproj",
+        "projectName": "WPFSolutionStudentScoreManagerment",
+        "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment.csproj",
+        "packagesPath": "C:\\Users\\nhath\\.nuget\\packages\\",
+        "outputPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFSolutionStudentScoreManagerment\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nhath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFService\\WPFService.csproj": {
+                "projectPath": "E:\\University\\FPTU\\Semester_7-SP24\\Data_PRN221\\WPFSolutionStudentScoreManagerment\\WPFService\\WPFService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "devexpress.wpf.dashboard": {
+              "target": "Package",
+              "version": "[23.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

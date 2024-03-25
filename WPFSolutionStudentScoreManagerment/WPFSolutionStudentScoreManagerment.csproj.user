@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup />
+	<ItemGroup>
+		<ApplicationDefinition Update="App.xaml">
+			<SubType>Designer</SubType>
+		</ApplicationDefinition>
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Update="AdminWindow.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+		<Compile Update="LopDetail.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+		<Compile Update="StudentWindow.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+		<Compile Update="TeacherWindow.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+		<Compile Update="WindowDetailScores.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+		<Compile Update="WindowMonHoc.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+		<Compile Update="WindowRegister.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+		<Compile Update="WindowStudents.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+	</ItemGroup>
+	<ItemGroup>
+		<Page Update="AdminWindow.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="Login.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="LopDetail.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="StudentWindow.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="TeacherWindow.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="WindowDetailScores.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="WindowMonHoc.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="WindowRegister.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="WindowStudents.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+	</ItemGroup>
+</Project>

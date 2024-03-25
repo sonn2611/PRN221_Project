@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFSolutionStudentScoreManagerment.WindowDetailScores"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSolutionStudentScoreManagerment"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="WindowDetailScores" Height="300" Width="400">
+    <Grid>
+        <GroupBox Header="Scores" Margin="10,10,10,10">
+            <DataGrid x:Name="dtg_Scores" CanUserAddRows="False" d:ItemsSource="{d:SampleData ItemCount=5}" AutoGenerateColumns="False" ItemsSource="{Binding}" Background="White"  SelectionMode="Single">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="StudentId" Binding="{Binding Tensv}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Subject Name" Binding="{Binding Tenmh}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Scores" Binding="{Binding Diem}" IsReadOnly="True"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+    </Grid>
+</Window>

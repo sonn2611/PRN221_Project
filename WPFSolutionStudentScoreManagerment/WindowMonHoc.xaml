@@ -1,0 +1,70 @@
+﻿<Window x:Class="WPFSolutionStudentScoreManagerment.WindowMonHoc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSolutionStudentScoreManagerment"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="WindowStudents" Height="600" Width="1000">
+    <Grid>
+        <GroupBox Header="Subject Information" Margin="14,132,436,297">
+            <Canvas Height="111" VerticalAlignment="Top">
+                <Label Content="Subject Id:" FontWeight="Bold" RenderTransformOrigin="0.471,1.085" Canvas.Left="9" Canvas.Top="8" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_SubjectId" TextWrapping="Wrap" Text="{Binding Path=Mamh, Mode=OneWay}" DataContext="{Binding ElementName=dtg_MonHoc, Path=SelectedItem}" Canvas.Left="110" Canvas.Top="8" HorizontalAlignment="Left" VerticalAlignment="Top" Width="376" Height="24"/>
+                <Label Content="Class Name:" FontWeight="Bold" RenderTransformOrigin="0.471,1.085" Canvas.Left="8" Canvas.Top="34" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBox x:Name="txt_SubjectName" Canvas.Left="110" TextWrapping="Wrap" Text="{Binding Path=Tenmh, Mode=OneWay}" DataContext="{Binding ElementName=dtg_MonHoc, Path=SelectedItem}" Canvas.Top="33" Width="376" Height="22" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <Label Content="Subject Creadit:" HorizontalAlignment="Left" Canvas.Left="8" Canvas.Top="60" Height="30" FontWeight="Bold" VerticalAlignment="Top" RenderTransformOrigin="0.471,1.085"/>
+                <TextBox x:Name="txt_SubjectSotc" Canvas.Left="110" TextWrapping="Wrap" Text="{Binding Path=Sotc, Mode=OneWay}" DataContext="{Binding ElementName=dtg_MonHoc, Path=SelectedItem}" Canvas.Top="60" Width="376" HorizontalAlignment="Left" VerticalAlignment="Center" Height="22"/>
+            </Canvas>
+        </GroupBox>
+
+        <GroupBox Header="Operator" Margin="564,391,9,10" RenderTransformOrigin="0.676,0.531">
+            <Canvas Margin="0,0,0,127">
+                <Button x:Name="btn_Add" Content="Add" HorizontalAlignment="Center" VerticalAlignment="Top" Height="33" Width="104" Canvas.Left="58"  Click="btn_Add_Click" Canvas.Top="10"/>
+                <Button x:Name="btn_Edit" Content="Edit" HorizontalAlignment="Center" VerticalAlignment="Top" Height="33" Width="104" Canvas.Left="248" Canvas.Top="10"  Click="btn_Edit_Click"/>
+                <Button x:Name="btn_Delete" Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Top" Height="33" Width="104" Canvas.Left="58" Canvas.Top="73"  Click="btn_Delete_Click"/>
+                <Button x:Name="btn_Close" Content="Close" HorizontalAlignment="Left" VerticalAlignment="Center" Height="33" Width="104" Canvas.Left="248" Canvas.Top="73"  Click="btn_Close_Click"/>
+            </Canvas>
+        </GroupBox>
+
+        <GroupBox Header="Subject" Margin="14,292,436,0">
+            <DataGrid x:Name="dtg_MonHoc" CanUserAddRows="False" AutoGenerateColumns="False" ItemsSource="{Binding}" d:ItemsSource="{d:SampleData ItemCount=3}"  Background="White" SelectionChanged="dtg_MonHoc_SelectionChanged" Margin="0,0,0,6" SelectionMode="Single">
+                <DataGrid.ItemBindingGroup>
+                    <BindingGroup/>
+                </DataGrid.ItemBindingGroup>
+                <DataGrid.DropLocationIndicatorStyle>
+                    <Style/>
+                </DataGrid.DropLocationIndicatorStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="SubjectId" Binding="{Binding Mamh}"/>
+                    <DataGridTextColumn Header="SubjectName" Binding="{Binding Tenmh}"/>
+                    <DataGridTextColumn Header="SubjectCredit" Binding="{Binding Sotc}"/>
+                    <DataGridTemplateColumn Header="Action" Width="150">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button Height="30" Width="80" Click="DetailButton_Click">Details</Button>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <GroupBox Margin="564,48,9,198" Header="StudentDetail">
+            <DataGrid x:Name="dtg_Student" CanUserAddRows="False" AutoGenerateColumns="False" ItemsSource="{Binding}" d:ItemsSource="{d:SampleData ItemCount=5}"  Background="White" SelectionChanged="dtg_Student_SelectionChanged" Margin="0,0,0,6" SelectionMode="Single" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="StudentId" Binding="{Binding Masv}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="StudentName" Binding="{Binding Tensv}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Address" Binding="{Binding Dcsv}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Address" Binding="{Binding Malp}" IsReadOnly="True"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <TextBox x:Name="txt_SearchSubject" TextChanged="TxtSearch_TextChanged" HorizontalAlignment="Left" Margin="121,101,0,0"  VerticalAlignment="Top" Width="290" Height="26"/>
+        <Label Content="Search Subject" HorizontalAlignment="Left" Margin="14,102,0,0" VerticalAlignment="Top" Height="25" Width="102" FontSize="14"/>
+        <TextBox x:Name="txt_SearchStudent" HorizontalAlignment="Left" TextChanged="TxtSearchStudent_TextChanged" Margin="698,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" Height="33"/>
+        <Label Content="Search Student"  HorizontalAlignment="Left" Margin="569,10,0,0" VerticalAlignment="Top" Height="33" Width="124" FontSize="14"/>
+    </Grid>
+</Window>

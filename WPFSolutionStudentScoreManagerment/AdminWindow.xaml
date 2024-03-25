@@ -1,0 +1,20 @@
+﻿<Window x:Class="WPFSolutionStudentScoreManagerment.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSolutionStudentScoreManagerment"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="AdminWindow" Height="300" Width="400">
+    <Grid>
+        <GroupBox Header="" Margin="10,10,10,10">
+            <Canvas>
+                <Button x:Name="btn_Sinhvien" Content="Sinh Viên" HorizontalAlignment="Left" VerticalAlignment="Top" Height="55" Canvas.Left="18" Width="138" Canvas.Top="27" Click="btn_Sinhvien_Click"/>
+                <Button x:Name="btn_MonHoc" Content="Môn Học" HorizontalAlignment="Left" VerticalAlignment="Top" Height="54" Canvas.Left="22" Width="138" Canvas.Top="119" Click="btn_MonHoc_Click"/>
+                <Button x:Name="btn_Lop" Content="Lớp" HorizontalAlignment="Left" VerticalAlignment="Top" Height="55" Canvas.Left="200" Width="138" Canvas.Top="25" Click="btn_Lop_Click"/>
+                <Button x:Name="btn_Logout" Content="Logout" Canvas.Left="200" Canvas.Top="114" Height="54" Width="138" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btn_Logout_Click"/>
+            </Canvas>
+        </GroupBox>
+    </Grid>
+</Window>

@@ -1,0 +1,260 @@
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.exe
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\appsettings.json
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.deps.json
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.runtimeconfig.json
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFBO.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFDAO.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFRepo.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFService.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFService.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFBO.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFDAO.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFRepo.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.AssemblyReference.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\AdminWindow.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\Login.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\LopDetail.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\StudentWindow.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\TeacherWindow.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowDetailScores.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowMonHoc.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowRegister.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowStudents.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\App.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment_MarkupCompile.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment_MarkupCompile.lref
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\App.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\AdminWindow.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\Login.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\LopDetail.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\StudentWindow.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\TeacherWindow.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowDetailScores.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowMonHoc.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowRegister.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowStudents.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.g.resources
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.AssemblyInfoInputs.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.AssemblyInfo.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.CoreCompileInputs.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.CopyComplete
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\refint\WPFSolutionStudentScoreManagerment.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.genruntimeconfig.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\ref\WPFSolutionStudentScoreManagerment.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.exe
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\appsettings.json
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.deps.json
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.runtimeconfig.json
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFBO.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFDAO.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFRepo.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFService.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFService.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFBO.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFDAO.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFRepo.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.AssemblyReference.cache
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\AdminWindow.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\Login.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\LopDetail.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\StudentWindow.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\TeacherWindow.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowDetailScores.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowMonHoc.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowRegister.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowStudents.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\App.g.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment_MarkupCompile.cache
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment_MarkupCompile.lref
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\App.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\AdminWindow.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\Login.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\LopDetail.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\StudentWindow.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\TeacherWindow.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowDetailScores.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowMonHoc.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowRegister.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowStudents.baml
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.g.resources
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.AssemblyInfoInputs.cache
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.AssemblyInfo.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.CoreCompileInputs.cache
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.CopyComplete
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\refint\WPFSolutionStudentScoreManagerment.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.genruntimeconfig.cache
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\ref\WPFSolutionStudentScoreManagerment.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.exe
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\appsettings.json
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.deps.json
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.runtimeconfig.json
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.pdb
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFBO.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFDAO.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFRepo.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFService.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFService.pdb
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFBO.pdb
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFDAO.pdb
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\bin\Debug\net6.0-windows\WPFRepo.pdb
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.AssemblyReference.cache
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\AdminWindow.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\Login.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\LopDetail.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\StudentWindow.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\TeacherWindow.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowDetailScores.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowMonHoc.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowRegister.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowStudents.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\App.g.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment_MarkupCompile.cache
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment_MarkupCompile.lref
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\AdminWindow.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\Login.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\LopDetail.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\StudentWindow.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\TeacherWindow.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowDetailScores.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowMonHoc.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowRegister.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WindowStudents.baml
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.g.resources
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.AssemblyInfoInputs.cache
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.AssemblyInfo.cs
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.CoreCompileInputs.cache
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.csproj.CopyComplete
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\refint\WPFSolutionStudentScoreManagerment.dll
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.pdb
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\WPFSolutionStudentScoreManagerment.genruntimeconfig.cache
+D:\ky 7\Project\WPF_Project\WPFSolutionStudentScoreManagerment\obj\Debug\net6.0-windows\ref\WPFSolutionStudentScoreManagerment.dll

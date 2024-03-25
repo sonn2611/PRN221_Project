@@ -1,0 +1,45 @@
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFDAO.deps.json
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFDAO.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFDAO.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFBO.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFBO.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.AssemblyReference.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.AssemblyInfoInputs.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.AssemblyInfo.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.CoreCompileInputs.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.CopyComplete
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\refint\WPFDAO.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\ref\WPFDAO.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFDAO.deps.json
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFDAO.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFDAO.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFBO.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\bin\Debug\net6.0\WPFBO.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.AssemblyReference.cache
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.AssemblyInfoInputs.cache
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.AssemblyInfo.cs
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.CoreCompileInputs.cache
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.CopyComplete
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\refint\WPFDAO.dll
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\WPFDAO.pdb
+D:\ky 7\PRN221\Project\PRN221_WPF_StudentScoreManagerment-main\WPFSolutionStudentScoreManagerment\WPFDAO\obj\Debug\net6.0\ref\WPFDAO.dll
+D:\ky 7\Project\WPF_Project\WPFDAO\bin\Debug\net6.0\WPFDAO.deps.json
+D:\ky 7\Project\WPF_Project\WPFDAO\bin\Debug\net6.0\WPFDAO.dll
+D:\ky 7\Project\WPF_Project\WPFDAO\bin\Debug\net6.0\WPFDAO.pdb
+D:\ky 7\Project\WPF_Project\WPFDAO\bin\Debug\net6.0\WPFBO.dll
+D:\ky 7\Project\WPF_Project\WPFDAO\bin\Debug\net6.0\WPFBO.pdb
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.AssemblyReference.cache
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\WPFDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\WPFDAO.AssemblyInfoInputs.cache
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\WPFDAO.AssemblyInfo.cs
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.CoreCompileInputs.cache
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\WPFDAO.csproj.CopyComplete
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\WPFDAO.dll
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\refint\WPFDAO.dll
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\WPFDAO.pdb
+D:\ky 7\Project\WPF_Project\WPFDAO\obj\Debug\net6.0\ref\WPFDAO.dll
